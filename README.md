@@ -1,1 +1,1 @@
-### i tried implementing yolov4
+just a simple implementation of yolov4
