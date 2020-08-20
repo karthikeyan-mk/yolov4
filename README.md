@@ -1,1 +1,1 @@
-just a simple implementation of yolov4
+yolov4 implemented to detect traffic signs.
